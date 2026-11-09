@@ -1,0 +1,6 @@
+{
+  "name": "SakhiSetu AI",
+  "description": "An Agentic AI-Powered Operational Intelligence Platform for Women's Self-Help Groups (SHGs)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
